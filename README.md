@@ -6,8 +6,10 @@ by ancient sages, have stood the test of time.
 Even though yoga is becoming preeminent, there are important challenges faced while doing yoga,
 such as performing it with incorrect form, the classes being expensive and the
 shortage of time in our busy lives.
+
 It allows many users to practice in a zero-judgment environment, which can make a huge difference for many to
 help gain their confidence.
+
 Artificial intelligence and Machine learning techniques exhibit promising
 solutions for human pose estimation. Our reagent will be trained with the
 help of expert yoga gurus, and images of correct postures for every Asan
