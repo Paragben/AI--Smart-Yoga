@@ -19,3 +19,6 @@ This reagent will check the user’s technique to perform the asana through live
 feed and in case the user is unable to perform or wrongly performing the
 Asan the reagent will detect it and intimate the user with the right technique
 to correct the pose with an image of it
+
+
+![image](https://github.com/Paragben/AI--Smart-Yoga/assets/106899303/6ca6e1c4-453d-4033-992e-c7474e7a432c)
